@@ -1,0 +1,7 @@
+
+## 📝 Uso
+- **Nuevo Pedido**: Completa el formulario y haz clic en "Guardar Pedido"
+- **Reportes**: Accede al panel para ver estadísticas y generar reportes
+
+## 📄 Licencia
+MIT

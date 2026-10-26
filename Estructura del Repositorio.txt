@@ -1,0 +1,13 @@
+recepcion-pedidos/
+├── README.md
+├── database/
+│   └── schema.sql
+├── config/
+│   └── db.php
+├── index.php              # Página principal con formulario de pedido
+├── guardar_pedido.php     # Procesa y guarda el pedido
+├── reportes.php           # Panel de reportes con botones
+├── reporte_diario.php     # Reporte de pedidos del día
+├── reporte_por_estado.php # Reporte filtrado por estado
+└── assets/
+    └── style.css
