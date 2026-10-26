@@ -21,5 +21,3 @@ Sistema web para recepcionar pedidos, almacenarlos en MySQL y generar reportes.
 3. Configura credenciales en `config/db.php`
 4. Coloca el proyecto en tu servidor web (XAMPP, Laragon, etc.)
 5. Accede a `index.php`
-
-## 📁 Estructura del Proyecto
